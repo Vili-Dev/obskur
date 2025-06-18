@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-link{
+    color: blueviolet;
+}
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+}
