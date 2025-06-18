@@ -10,3 +10,28 @@ body {
     width: 100px;
     height: 100px;
 }
+
+.bouton-decouvrir {
+    display: flex;
+    justify-content: center;
+}
+
+.section-title{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.services {
+    padding: 20px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.card img {
+    width: 100%;
+    height: 100%;
+}
+
