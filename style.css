@@ -14,24 +14,38 @@ body {
 .bouton-decouvrir {
     display: flex;
     justify-content: center;
+    padding: 10px;
 }
 
 .section-title{
     text-align: center;
-    margin: 20px 0;
+    margin: 0px 0;
 }
 
 .services {
-    padding: 20px;
-}
-
-.card{
-    display: flex;
-    align-items: center;
+    padding: 10px;
     text-align: center;
 }
-.card img {
-    width: 100%;
-    height: 100%;
+
+.temoignages{
+    text-align: center;
+    padding: 12px;
+    
 }
 
+.title-temoignage{
+    padding: 10px;
+    margin-top: -20px;
+}
+
+.footing {
+    background-color: #292929;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.copyright {
+    color: white;
+    font-size: 14px;
+    padding-top: 5px;
+}
