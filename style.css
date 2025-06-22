@@ -1,6 +1,5 @@
-body {
-    display: flex;
-    flex-direction: column;
+html, body {
+  overflow-x: hidden;
 }
 
 .nav-link{
@@ -49,3 +48,4 @@ body {
     font-size: 14px;
     padding-top: 5px;
 }
+
